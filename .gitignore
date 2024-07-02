@@ -1,0 +1,32 @@
+# macOS specific files
+.DS_Store
+
+# General macOS system files
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Trashes
+.Spotlight-V100
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+__MACOSX/
+
+# Python specific files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.ipynb_meta/
+
+# IDE specific files (if using PyCharm, for example)
+.idea/
